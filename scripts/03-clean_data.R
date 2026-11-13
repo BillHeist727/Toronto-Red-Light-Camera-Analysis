@@ -5,7 +5,7 @@
 # Date: 12 November 2026
 # Contact: aminanasree.mohamed@mail.utoronto.ca
 # License: MIT
-# Pre-requisites: Run scripts/02-download_data.R first, which creates
+# Pre-requisites: Run scripts/00-download_data.R, which creates
 #                 Inputs/data/unedited_data.geojson
 
 
